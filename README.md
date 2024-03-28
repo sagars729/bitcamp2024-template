@@ -3,5 +3,5 @@
 Bitcamp 2024 Workshop: Introduction to GitHub
 
 <p align="center">
-  <img src="https://media1.tenor.com/images/0f7f91c3e517caa0c532cd170d4768de/tenor.gif" />
+  <img src="https://raw.githubusercontent.com/sagars729/bitcamp2024-template/main/2b095efd2646d3029c15646262d12404-3917735410.jpg" />
 </p>
